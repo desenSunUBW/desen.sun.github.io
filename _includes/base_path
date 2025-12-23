@@ -1,5 +1,11 @@
 {% if site.url %}
-  {% assign base_path = site.url | append: site.baseurl %}
-{% else %}
+  {% if site.url contains "localhost" or site.url contains "127.0.0.1" %}
+    {% assign base_path = "" %}
+  {% else %}
+    {% assign base_path = site.url | append: site.baseurl %}
+  {% endif %}
+{% elsif site.github.url %}
   {% assign base_path = site.github.url %}
+{% else %}
+  {% assign base_path = "" %}
 {% endif %}

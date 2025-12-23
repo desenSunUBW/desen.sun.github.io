@@ -23,13 +23,13 @@ repository               : "desenSunUBW/desen.sun.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "lena.png"
   name             : "Desen Sun"
   pronouns         : # example: "she/her"  
   bio              : "Researcher at University of Waterloo working on efficient and secure diffusion models"
   location         : "Waterloo, ON, Canada"
   employer         : "University of Waterloo"
-  uri              : "desen.sun.github.io" # URL
+  uri              : "" # URL
   email            : "desen.sun AT uwaterloo.ca" 
 
   # Academic websites

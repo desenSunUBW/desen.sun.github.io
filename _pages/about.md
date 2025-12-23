@@ -7,28 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a researcher at the **University of Waterloo** (UWaterloo), where I pursue my passion for advancing the field of machine learning and artificial intelligence.
+Welcome! I am a PhD student at the **University of Waterloo**, where I pursue my passion for advancing the field of machine learning systems supervised by [Prof Sihang Liu](https://www.sihangliu.com/). I got my Bachelor of Engineering (B.E.) degree from the University of Electronic Science and Technology of China (UESTC) in 2020, and my Master of Science (M.S.) degree from Beihang University, working with Prof Yuebin Bai. 
 
 ## Research Interests
 
-My research focuses on **efficient and secure diffusion models**. Diffusion models have emerged as powerful generative models capable of producing high-quality images, text, and other complex data distributions. However, their widespread adoption faces significant challenges in terms of computational efficiency and security vulnerabilities.
+My research interest is broad, including using **system and archtect** methods to optimize the **Machine Learning** applications at both **performance and security** angle. During my PhD career, I typically focus on Diffusion models, which have emerged as powerful generative models capable of producing high-quality images, videos, text, and other complex data distributions. 
 
-### Efficient Diffusion Models
-I work on developing novel techniques to improve the efficiency of diffusion models, including:
-- **Accelerated sampling algorithms** that reduce the number of diffusion steps required for generation
-- **Model compression and distillation** methods to create lighter, faster variants without sacrificing quality
-- **Architectural optimizations** that enable real-time generation on resource-constrained devices
-
-### Secure Diffusion Models
-Security is a critical concern for diffusion models, especially as they become integrated into production systems. My research addresses:
-- **Privacy-preserving training** mechanisms to protect sensitive training data
-- **Robustness against adversarial attacks** that could compromise model integrity
-- **Secure inference protocols** that prevent unauthorized access or model extraction
-- **Fairness and bias mitigation** in diffusion model outputs
-
-## University of Waterloo
-
-The University of Waterloo is renowned for its excellence in computer science, engineering, and mathematics. As a leading research institution, UWaterloo provides an exceptional environment for cutting-edge research in artificial intelligence and machine learning. The university's strong industry connections and collaborative research culture foster innovation and practical applications of theoretical advances.
 
 ---
 
