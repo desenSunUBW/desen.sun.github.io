@@ -3,11 +3,10 @@ title: "Your Publication Title Here"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-your-publication-title
-excerpt: 'Brief description or abstract of your publication. This appears in the publication list.'
 date: 2024-02-17
 venue: 'Journal or Conference Name'
 paperurl: 'https://doi.org/your-doi-or-url'
-citation: 'Sun, D., Author2, B., & Author3, C. (2024). &quot;Your Publication Title Here.&quot; <i>Journal or Conference Name</i>. 1(1), 1-10.'
+authors: '***Desen Sun***, Author2, B., & Author3, C.'
 ---
 
 <a href='https://doi.org/your-doi-or-url'>Download paper here</a>
