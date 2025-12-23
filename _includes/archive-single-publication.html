@@ -1,0 +1,67 @@
+{% include base_path %}
+
+<div class="archive__item" style="margin-bottom: 1.5em;">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    {% assign post = include.post | default: post %}
+    
+    <!-- Conference/Journal tag with year -->
+    {% if post.venue and post.date %}
+      {% assign year = post.date | date: "%Y" %}
+      {% assign venue_abbr = post.venue %}
+      {% comment %} Extract abbreviation from venue (e.g., "ICML 2024" -> "ICML") {% endcomment %}
+      {% assign venue_words = post.venue | split: ' ' %}
+      {% if venue_words.size > 0 %}
+        {% assign venue_abbr = venue_words[0] %}
+      {% endif %}
+      <strong>[{{ venue_abbr }}-{{ year }}]</strong>
+    {% elsif post.venue %}
+      <strong>[{{ post.venue }}]</strong>
+    {% endif %}
+    
+    <!-- Title -->
+    {% if post.id %}
+      {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+    {% else %}
+      {% assign title = post.title %}
+    {% endif %}
+    
+    <strong>{{ title }}</strong>
+    
+    <!-- Authors -->
+    {% if post.authors %}
+      <br />
+      <em>{{ post.authors }}</em>
+    {% endif %}
+    
+    <!-- Venue -->
+    {% if post.venue %}
+      <br />
+      {{ post.venue }}.
+    {% endif %}
+    
+    <!-- Links -->
+    <br />
+    <span>
+      {% if post.paperurl %}
+        [<a href="{{ post.paperurl }}" target="_blank">Paper</a>]
+      {% endif %}
+      {% if post.bibtexurl %}
+        [<a href="{{ post.bibtexurl }}" target="_blank">Bibtex</a>]
+      {% endif %}
+      {% if post.codeurl %}
+        [<a href="{{ post.codeurl }}" target="_blank">Code</a>]
+      {% endif %}
+      {% if post.slidesurl %}
+        [<a href="{{ post.slidesurl }}" target="_blank">Slides</a>]
+      {% endif %}
+      {% if post.videourl %}
+        [<a href="{{ post.videourl }}" target="_blank">Video</a>]
+      {% endif %}
+      {% if post.projecturl %}
+        [<a href="{{ post.projecturl }}" target="_blank">Project</a>]
+      {% endif %}
+    </span>
+    
+  </article>
+</div>
+
