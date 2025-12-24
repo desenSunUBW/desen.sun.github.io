@@ -5,5 +5,5 @@ category: manuscripts
 date: 2023-02-01
 venue: "PPoPP'23"
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10125064'
-authors: 'Chunyang Wang *, **Desen Sun ***, Yuebin Bai (*: co-author)'
+authors: "Chunyang Wang*, <strong>Desen Sun*</strong>, Yuebin Bai (*: co-author)"
 ---
