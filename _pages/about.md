@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD student at the University of Waterloo, where I pursue my passion for advancing the field of machine learning systems supervised by Prof Sihang Liu. I got my Bachelor of Engineering (B.E.) degree from the University of Electronic Science and Technology of China (UESTC) in 2020, and my Master of Science (M.S.) degree from Beihang University, working with Prof Yuebin Bai.
+Welcome! I am a PhD student at the University of Waterloo, where I pursue my passion for advancing the field of machine learning systems supervised by Prof [Sihang Liu](https://www.sihangliu.com/). I got my Bachelor of Engineering (B.E.) degree from the University of Electronic Science and Technology of China (UESTC) in 2020, and my Master of Science (M.S.) degree from Beihang University, working with Prof Yuebin Bai.
 
 
 **Research Interest**
