@@ -16,7 +16,12 @@
     <!-- Authors (with markdown support for bold) -->
     {% if post.authors %}
       <br />
-      {{ post.authors | markdownify }}
+      {% assign authors_text = post.authors | markdownify | strip %}
+      {% if authors_text contains '<p>' %}
+        {{ authors_text | remove: '<p>' | remove: '</p>' | strip }}
+      {% else %}
+        {{ authors_text | strip }}
+      {% endif %}
     {% endif %}
     
     <!-- Venue -->

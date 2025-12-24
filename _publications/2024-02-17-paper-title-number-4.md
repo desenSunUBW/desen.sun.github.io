@@ -6,7 +6,7 @@ permalink: /publication/2024-02-17-your-publication-title
 date: 2024-02-17
 venue: 'Journal or Conference Name'
 paperurl: 'https://doi.org/your-doi-or-url'
-authors: '***Desen Sun***, Author2, B., & Author3, C.'
+authors: '**Desen Sun**, Author2, B., & Author3, C.'
 ---
 
 <a href='https://doi.org/your-doi-or-url'>Download paper here</a>
