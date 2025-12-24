@@ -17,7 +17,7 @@ My research interest is broad, including using system and archtect methods to op
 **Selected Publications**
 
 **<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">EmbAdvisor: Adaptive Cache Management for Sustainable LLM Serving</span>  
-<span style="font-family: 'Cambria', serif;">Yuyang Tian, <strong><u>Desen Sun</u></strong>\*, Yi Ding, Sihang Liu</span>  
+<span style="font-family: 'Cambria', serif;">Yuyang Tian, <strong><u>Desen Sun</u></strong>, Yi Ding, Sihang Liu</span>  
 | <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2501.04012">paper</a>
 |
 
@@ -41,7 +41,7 @@ My research interest is broad, including using system and archtect methods to op
 
 ---
 **<span style="background-color: #8A2BE2; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">TPDS'23</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">CD-MSA: cooperative and deadline-aware scheduling for efficient multi-tenancy on DNN accelerators</span>  
-<span style="font-family: 'Cambria', serif;"><strong>Chunyang Wang, Yuebin Bai,  <u>Desen Sun</u></strong></span>   
+<span style="font-family: 'Cambria', serif;">Chunyang Wang, Yuebin Bai,  <strong><u>Desen Sun</u></strong></span>   
 | <i class="fa fa-file-pdf"></i> <a href="https://ieeexplore.ieee.org/abstract/document/10125064">paper</a>
 |
 
