@@ -40,14 +40,14 @@ My research interest is broad, including using system and archtect methods to op
 |
 
 ---
-**<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">TPDS'23</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">CD-MSA: cooperative and deadline-aware scheduling for efficient multi-tenancy on DNN accelerators</span>  
+**<span style="background-color: #8A2BE2; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">TPDS'23</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">CD-MSA: cooperative and deadline-aware scheduling for efficient multi-tenancy on DNN accelerators</span>  
 <span style="font-family: 'Cambria', serif;"><strong>Chunyang Wang, Yuebin Bai,  <u>Desen Sun</u></strong></span>   
 | <i class="fa fa-file-pdf"></i> <a href="https://ieeexplore.ieee.org/abstract/document/10125064">paper</a>
 |
 
 
 ---
-**<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">PPoPP'23</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">PiPAD: pipelined and parallel dynamic GNN training on GPUs</span>  
+**<span style="background-color: #CD853F; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">PPoPP'23</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">PiPAD: pipelined and parallel dynamic GNN training on GPUs</span>  
 <span style="font-family: 'Cambria', serif;"><strong>Chunyang Wang*, <u>Desen Sun*</u></strong>, Yuebin Bai (*: co-author)</span>   
 | <i class="fa fa-file-pdf"></i> <a href="https://ieeexplore.ieee.org/abstract/document/10125064">paper</a>
 |
