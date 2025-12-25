@@ -18,7 +18,7 @@ My research interest is broad, including using system and archtect methods to op
 
 **<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">EmbAdvisor: Adaptive Cache Management for Sustainable LLM Serving</span>  
 <span style="font-family: 'Cambria', serif;">Yuyang Tian, <strong><u>Desen Sun</u></strong>, Yi Ding, Sihang Liu</span>  
-| <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2501.04012">paper</a>
+| <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2505.23970">paper</a>
 |
 
 **<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">FlexCache: Flexible approximate cache system for video diffusion</span>  
@@ -49,7 +49,7 @@ My research interest is broad, including using system and archtect methods to op
 ---
 **<span style="background-color: #4169E1; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">PPoPP'23</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">PiPAD: pipelined and parallel dynamic GNN training on GPUs</span>  
 <span style="font-family: 'Cambria', serif;">Chunyang Wang*, <strong><u>Desen Sun*</u></strong>, Yuebin Bai (*: co-author)</span>   
-| <i class="fa fa-file-pdf"></i> <a href="https://ieeexplore.ieee.org/abstract/document/10125064">paper</a>
+| <i class="fa fa-file-pdf"></i> <a href="https://dl.acm.org/doi/10.1145/3572848.3577487">paper</a>
 |
 
 **Professional Services**
