@@ -23,7 +23,7 @@ My research interest is broad, including using system and archtect methods to op
 |
 
 **<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">HybridStitch: Pixel and Timestep Level Model Stitching for Diffusion Acceleration</span>  
-<span style="font-family: 'Cambria', serif;"><strong><u>Desen Sun</u></strong>, <u>Jason Hon*<u>, Jintao Zhang, Sihang Liu (*: co-author)</span>  
+<span style="font-family: 'Cambria', serif;"><strong><u>Desen Sun</u></strong>, <u>Jason Hon*</u>, Jintao Zhang, Sihang Liu (*: co-author)</span>  
 | <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2603.07815">paper</a>
 |
 
