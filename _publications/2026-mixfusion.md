@@ -4,6 +4,6 @@ collection: publications
 category: manuscripts
 date: 2026-1-10
 venue: "PPoPP'26"
-paperurl: 'https://arxiv.org/abs/2501.09253'
+paperurl: 'https://dl.acm.org/doi/10.1145/3774934.3786420'
 authors: '**Desen Sun**, Zepeng Zhao, Yuke Wang'
 ---

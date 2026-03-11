@@ -22,6 +22,10 @@ My research interest is broad, including using system and archtect methods to op
 | <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2501.04012">paper</a>
 |
 
+**<span style="background-color: #808080; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Preprint</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">HybridStitch: Pixel and Timestep Level Model Stitching for Diffusion Acceleration</span>  
+<span style="font-family: 'Cambria', serif;"><strong><u>Desen Sun</u></strong>, <u>Jason Hon*<u>, Jintao Zhang, Sihang Liu (*: co-author)</span>  
+| <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2603.07815">paper</a>
+|
 
 ---
 **<span style="background-color: #2E8B57; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">Usenix Sec'26</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">Attacks on Approximate Caches in Text-to-Image Diffusion Models</span>  
@@ -39,7 +43,7 @@ My research interest is broad, including using system and archtect methods to op
 ---
 **<span style="background-color: #4169E1; color: white; padding: 0.81px 7px; border-radius: 15px; display: inline-block; font-weight: bold; font-size: 14px; margin-right: 3px;">PPoPP'26</span>** <span style="font-family: 'Helvetica', serif; font-weight: bold;">MixFusion: A Patch-Level Parallel Serving System for Mixed-Resolution Diffusion Models</span>  
 <span style="font-family: 'Cambria', serif;"><strong><u>Desen Sun</u></strong>, Zepeng Zhao, Yuke Wang</span>   
-| <i class="fa fa-file-pdf"></i> <a href="https://arxiv.org/abs/2501.09253">paper</a>
+| <i class="fa fa-file-pdf"></i> <a href="https://dl.acm.org/doi/10.1145/3774934.3786420">paper</a>
 |
 
 ---
